@@ -1,0 +1,28 @@
+-> Landing 
+    - header
+    - footer
+-> Dashboard
+    - header
+    - footer
+    - add video
+    - list video
+    - category
+-> History
+
+
+1. 
+
+
+
+Axios;
+---------
+- package with methode for XmalHttpRequest
+- hanlde data transformation itself
+- to install
+    npm i Axios
+
+
+-axios request structure
+    ->basic get request
+    axios get ("url")
+    ->

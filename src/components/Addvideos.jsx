@@ -68,7 +68,7 @@ function Addvideos({setaddstatus}) {
 
   <>
          <span className='btn' onClick={handleShow}>
-         <i class="fa-solid fa-circle-plus fa-lg" ></i>
+         <i class="fa-solid fa-circle-plus"></i>
          </span>
 
          <Modal
